@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm DANG DAI DUONG</h1>
 <h3 align="center">Bachelor’s degree in Logistics and Supply Chain Management from Hoa Sen University. Currently pursuing knowledge in coding and emerging technologies to thrive in the future of the business-tech-fin era.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gunzosi&label=Profile%20views&color=0e75b6&style=flat" alt="gunzosi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gunzosi" alt="gunzosi" /></a> </p>
-
 - 🔭 I’m currently working on [DSA 0 to Hero in JAVA](https://github.com/gunzosi/Master-DSA)
 
 - 🔭 I’m currently do in [DSA 0 to Hero in Python](https://github.com/gunzosi/python-dsa-master)
@@ -36,5 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gunzosi&show_icons=true&locale=en" alt="gunzosi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gunzosi&" alt="gunzosi" /></p>
-
-
