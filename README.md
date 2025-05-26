@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/daiduong/](https://www.linkedin.com/in/daiduong/)
 
-- ⚡ Fun fact **I will get the CFA lv1 Cert in 12/2025**
+- ⚡ Fun fact **I am truly Gamer in Valorant, CSGO, APEX, LoL, Dota**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
